@@ -33,6 +33,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
+![output](img1.png)
 
 
 ### RESULT:
+The distance between the two points is displayed sucessfully.
